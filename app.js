@@ -12,7 +12,7 @@ function jump(){
     character.classList.add("animate");
     setTimeout(function(){
         character.classList.remove("animate");
-    },300);
+    },800);
     girl.play();
 }
 var checkDead = setInterval(function() {
