@@ -1,5 +1,5 @@
-alert("Click to jump and save the girl from angry man!");
-
+var law='Click to jump and save the girl from angry man! :) ,So... if you are ready press "ok"';
+alert(law);
 var character = document.getElementById("character");
 var block = document.getElementById("block");
 var counter=0;
