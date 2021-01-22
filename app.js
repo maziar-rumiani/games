@@ -1,3 +1,5 @@
+alert("Click to jump and save the girl from angry man!");
+
 var character = document.getElementById("character");
 var block = document.getElementById("block");
 var counter=0;
