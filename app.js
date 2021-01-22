@@ -22,7 +22,7 @@ var checkDead = setInterval(function() {
         block.style.animation = "none";
         alert("Game Over. score:  ("+Math.floor(counter/100)+')         If you wanna play again,press "ok"'+Scream.play());
         counter=0;
-        block.style.animation = "block 1.5s infinite linear";
+        block.style.animation = "block 3.5s infinite linear";
 
     }else{
         counter++;
